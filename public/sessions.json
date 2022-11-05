@@ -1,0 +1,3477 @@
+{
+  "sessions": [
+    {
+      "id": 1038084,
+      "importId": "wYKagTp0ntsLl",
+      "eventId": 414591,
+      "title": "Registration Warm-Up",
+      "hidden": false,
+      "startDate": 1667520000000,
+      "endDate": 1667606399000,
+      "startMinute": 780,
+      "endMinute": 1080,
+      "description": "You can pick up your badge at the Registration Warm-Up event on Fri. Nov 4 from 1pm - 6pm at Carlos Lopes Pavillion. If you do not pick your badge up at the registration warm-up event on Friday, you can pick up your badge on Saturday at any of the four official Breakpoint venues / conference stages (i.e., Carlos Lopes, Convento do Beato, Pateo da Gale or Capitolio). ",
+      "descriptionHtml": "<p>You can pick up your badge at the Registration Warm-Up event on&nbsp;Fri. Nov 4 from 1pm - 6pm at<a data-saferedirecturl=\"https://www.google.com/url?q=https://www.visitlisboa.com/pt-pt/locais/pavilhao-carlos-lopes&source=gmail&ust=1667219966573000&usg=AOvVaw1iwW-A_GnoR4YI1-9yIrdN\" href=\"https://www.visitlisboa.com/pt-pt/locais/pavilhao-carlos-lopes\" target=\"_blank\">&nbsp;Carlos Lopes Pavillion</a>. If you do not pick your badge up at the registration warm-up event on Friday, you can pick up your badge on Saturday at any of the four official Breakpoint venues / conference stages (i.e., Carlos Lopes, Convento do Beato, Pateo da Gale or Capitolio). </p>",
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [],
+      "moderators": [],
+      "sponsors": [418916],
+      "sponsorsTitle": "Sponsored By:GSR",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1026962,
+        "sessionId": 1038084,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "0b0860ba-11f6-4663-bcc1-fdeffdd06705",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "3ffc580e-09e1-4082-b197-9f3ae0622db5",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031407,
+      "importId": "YVbKuqMwq39w3",
+      "eventId": 414591,
+      "title": "Welcome to Pateo da Gale",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 600,
+      "endMinute": 610,
+      "description": "Welcome to Pateo da Gale, your home for workshops. We're going to dive deep into technical and non-technical topics here.",
+      "descriptionHtml": "<p>Welcome to Pateo da Gale, your home for workshops. We're going to dive deep into technical and non-technical topics here.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2833608,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 989058,
+        "sessionId": 1031407,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "f5d9054f-4a3f-4a30-b230-4e5b280f104f",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "cd5aa8a1-7b08-4563-8162-f32028f3313b",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031427,
+      "importId": "uKpLWKA5qC9Bn",
+      "eventId": 414591,
+      "title": "Exploring Solana's Tooling Ecosystem",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 610,
+      "endMinute": 630,
+      "description": "Hear from the Solana Foundation's DevRel lead on the best ways to jumpstart your development process. This workshop will cover this year's tooling upgrades and teach you how to build as fast as possible.",
+      "descriptionHtml": "<p>Hear from the Solana Foundation's DevRel lead on the best ways to jumpstart your development process. This workshop will cover this year's tooling upgrades and teach you how to build as fast as possible.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2835878,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 989340,
+        "sessionId": 1031427,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "db3ce9fe-f0e6-4586-89a5-3d6a7729e59e",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "8c6a4407-c054-47f3-8ee6-2793f0d5131b",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1034889,
+      "importId": "8aC4D28PNh59H",
+      "eventId": 414591,
+      "title": "Minting NFTs on Solana at Scale",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 630,
+      "endMinute": 660,
+      "description": "Minting Metaplex NFTs at scale can be expensive, especially when you want to mint more than 100k! Metaplex Compressed NFTs reduce this cost by over 1,000x and enables the minting of 100 million NFTs for just ◎50. Join us as we explain how the cost savings work, and how to mint your own Compressed NFTs.",
+      "descriptionHtml": "<p>Minting Metaplex NFTs at scale can be expensive, especially when you want to mint more than 100k! Metaplex Compressed NFTs reduce this cost by over 1,000x and enables the minting of 100 million NFTs for just ◎50. Join us as we explain how the cost savings work, and how to mint your own Compressed NFTs.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2847377,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2846912,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2845193,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1009136,
+        "sessionId": 1034889,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "0804229b-8cbd-4f79-83ea-9e8ef18f0a22",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "c040a59a-6793-43d0-ad33-12b2a0e8c2bb",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1038496,
+      "importId": "0uUtJBOzFudwb",
+      "eventId": 414591,
+      "title": "Welcome to Breakpoint",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 660,
+      "endMinute": 670,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2853861,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2853866,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2849311,
+          "role": "Moderator"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1028652,
+        "sessionId": 1038496,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "d5496489-f1fc-4240-a4cb-29659e1157b7",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "1ee6e068-0d43-4251-9cc1-be3692e85e7b",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031436,
+      "importId": "mXehc4N0vXaDa",
+      "eventId": 414591,
+      "title": "Welcome to Teatro Capitolio",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 660,
+      "endMinute": 670,
+      "description": "Welcome to Teatro Capitolio, one of Lisbon's hidden Art Deco gems. Here you will find intimate workshops, a beautiful rooftop, and the Community Open Mic. ",
+      "descriptionHtml": "<p>Welcome to Teatro Capitolio, one of Lisbon's hidden Art Deco gems. Here you will find intimate workshops, a beautiful rooftop, and the Community Open Mic. </p>",
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [
+        {
+          "speakerId": 2858765,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "d04195f6-2099-4c35-b81d-e51b00aa5b09",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "6dc01fe3-e524-4a6d-8c63-47a44ef8ef08",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031678,
+      "importId": "RQK91jXsWRjVa",
+      "eventId": 414591,
+      "title": "Use Token-2022 for Everything ",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 660,
+      "endMinute": 690,
+      "description": "Solana Labs' Jon Cinque explains Token-2022, a new token program for both fungible and non-fungible tokens. This program looks to add functionality while keeping disruption to users, wallets, and dapps minimal. Adoption may take awhile, but here's how you prepare to add it to your projects.",
+      "descriptionHtml": "<p>Solana Labs' Jon Cinque explains Token-2022, a new token program for both fungible and non-fungible tokens. This program looks to add functionality while keeping disruption to users, wallets, and dapps minimal. Adoption may take awhile, but here's how you prepare to add it to your projects.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2834682,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 990308,
+        "sessionId": 1031678,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "df363012-1c05-474b-aa44-492d3b3de9bf",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "c1ab2e3f-31cc-4635-a18c-65d6238b8b83",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031431,
+      "importId": "JlM5awm5bJErM",
+      "eventId": 414591,
+      "title": "More Than POAPs: Building Solana's Location Layer",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 670,
+      "endMinute": 690,
+      "description": "De_plan wants to be the Solana blockchain's location infrastructure layer. Hear from the project's architect-turned-Web3 founder on the potential for on-chain location use-cases. You might even leave with a keepsake from this session...",
+      "descriptionHtml": "<p>De_plan wants to be the Solana blockchain's location infrastructure layer. Hear from the project's architect-turned-Web3 founder on the potential for on-chain location use-cases. You might even leave with a keepsake from this session...</p>",
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [
+        {
+          "speakerId": 2837758,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "16aad6b9-3757-4a90-bf28-4ea40bb5b1b6",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "1d0bfa1f-1a24-4ce6-b2b5-f3384b7db372",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032708,
+      "importId": "RJ9ub2SZSCkzM",
+      "eventId": 414591,
+      "title": "What's in Store? Lessons in Retail From Solana Spaces",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 675,
+      "endMinute": 695,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 1785219,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "ee612b2a-27ba-4a19-8b74-c4f086de63cf",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "ed8d614f-2294-4779-acef-79e8300b2467",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032749,
+      "importId": "gOfdb1F0Sq30p",
+      "eventId": 414591,
+      "title": "On Being a Young Crypto Founder",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 690,
+      "endMinute": 720,
+      "description": "Youth is wasted on the young, they say. Unless you're also into crypto and have already founded your own project or company. Listen to how a new generation is diving head-first into the space. ",
+      "descriptionHtml": "<p>Youth is wasted on the young, they say. Unless you're also into crypto and have already founded your own project or company. Listen to how a new generation is diving head-first into the space. </p>",
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [
+        {
+          "speakerId": 2843564,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2836899,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2837460,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2840565,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2853698,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "ffed2036-8ae5-4764-a052-1873871a7cb3",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "af927946-fa16-431f-bc6d-4055c7eadeae",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032709,
+      "importId": "1u1wkiyQO7BIU",
+      "eventId": 414591,
+      "title": "The Saga Continues: Updates From Solana Mobile",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 695,
+      "endMinute": 725,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2843918,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2861803,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2852743,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2845190,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2845199,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2845189,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "552f9d84-e155-4afa-a268-241427c23587",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "ab926718-12e1-4712-98ff-fc9c971550e6",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031430,
+      "importId": "AKtmkUPkP92Xf",
+      "eventId": 414591,
+      "title": "A Framework for Formal Verification of Solana Programs",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 705,
+      "endMinute": 735,
+      "description": "Squads asked OtterSec to mathematically check one of its multisig contracts. In the process, they created a formal verification framework that can be used on any other program on Solana. They'll present their work on stage and discuss its importance to the ecosystem.",
+      "descriptionHtml": "<p>Squads asked OtterSec to mathematically check one of its multisig contracts. In the process, they created a formal verification framework that can be used on any other program on Solana. They'll present their work on stage and discuss its importance to the ecosystem.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2832463,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2839923,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "fc92b2a9-fb84-4748-8a37-ac1dfd4d637d",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "bfcde1ff-25ae-4f62-a9b2-c77f61666a62",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031429,
+      "importId": "wXGALIliMjhLQ",
+      "eventId": 414591,
+      "title": "GAAP and Taxes: What Project Founders Need to Know",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 720,
+      "endMinute": 750,
+      "description": "Taxes are complicated. They're doubly so in crypto. If you're building in the space and struggling with translating on-chain activity to accountant-friendly formats, this session might be the one for you. ",
+      "descriptionHtml": "<p>Taxes are complicated. They're doubly so in crypto. If you're building in the space and struggling with translating on-chain activity to accountant-friendly formats, this session might be the one for you. </p>",
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [
+        {
+          "speakerId": 2837761,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 989353,
+        "sessionId": 1031429,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "120df1a2-b887-4cbb-99b6-55e78724520f",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "d847e1cb-71de-46f8-9924-ee1fea6a6e8a",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031437,
+      "importId": "ybm1KauFJ1UnQ",
+      "eventId": 414591,
+      "title": "Measure What Matters: Using Explorers Effectively",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 735,
+      "endMinute": 765,
+      "description": "These builders are helping users make sense of the reams of data generated by Solana and other proof-of-stake networks. This panel will discuss the most important metrics and new ways for anyone to access them.",
+      "descriptionHtml": "<p>These builders are helping users make sense of the reams of data generated by Solana and other proof-of-stake networks. This panel will discuss the most important metrics and new ways for anyone to access them.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2833602,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2833622,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 1785447,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2832458,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "5c235959-6240-4cc9-9dba-2cfb2b901017",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "02d8e698-2cb7-4be5-8b27-be3d78879c25",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032710,
+      "importId": "v2nSeIewh31uJ",
+      "eventId": 414591,
+      "title": "Addressing Crypto's Climate Problem",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 740,
+      "endMinute": 750,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2852998,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "dbf57728-817c-4ada-9078-921a846b659b",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "df5b4b45-0c8e-41ad-bb8a-3ce86add5a92",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1040667,
+      "importId": "3JktbRhyein5x",
+      "eventId": 414591,
+      "title": "Soon™️: Magic Eden ",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 750,
+      "endMinute": 760,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2856959,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1049108,
+        "sessionId": 1040667,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "0707b00b-e308-4d5d-a304-72585fbd3b5a",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "0e617622-f282-42ce-99ca-373f649d7b9c",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1033823,
+      "importId": "o0nMECbfaFBIW",
+      "eventId": 414591,
+      "title": "Backpack: WAO",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 760,
+      "endMinute": 780,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2852744,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2852748,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1002890,
+        "sessionId": 1033823,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "e32e1626-3d5e-46cf-9541-c2f97a287863",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "4afd00d9-2e96-4a7d-bfce-d2b620bf5a45",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032706,
+      "importId": "Tmuj1trO6aETw",
+      "eventId": 414591,
+      "title": "Automating Smart-Contract Security With Sec3",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 765,
+      "endMinute": 795,
+      "description": "This workshop from sec3's Chris Wang aims to introduce best practices on securing the full life cycle of Solana smart contracts. It will focus on automating smart-contract security beyond pre-launch security audits.",
+      "descriptionHtml": "<p>This workshop from sec3's Chris Wang aims to introduce best practices on securing the full life cycle of Solana smart contracts. It will focus on automating smart-contract security beyond pre-launch security audits.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2833621,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 996459,
+        "sessionId": 1032706,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "21d24ede-9284-4da6-83d4-b1502394caed",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "aaf779eb-ba50-49e1-9a58-001c9c07ac87",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1035967,
+      "importId": "8hAcOPuVHec3K",
+      "eventId": 414591,
+      "title": "ASICS on Solana",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 780,
+      "endMinute": 795,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2843568,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2833608,
+          "role": "Moderator"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1017007,
+        "sessionId": 1035967,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "3f6563ac-8b4c-483a-8a6c-7d3cb2c2de2a",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "2939a9e7-4d29-441b-9c60-62fa293dc425",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1036403,
+      "importId": "RAce8h3sBrXWP",
+      "eventId": 414591,
+      "title": "MonkeDAO's Lesley Eccles on How to Run a DAO Good",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 780,
+      "endMinute": 795,
+      "description": "Lesley helped build the largest U.S. sports betting company, FanDuel. Now she's using that experience to develop an operations platform for MonkeDAO. Listen to this session for tips on managing your DAO. ",
+      "descriptionHtml": "<p>Lesley helped build the largest U.S. sports betting company, FanDuel. Now she's using that experience to develop an operations platform for MonkeDAO. Listen to this session for tips on managing your DAO. </p>",
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [
+        {
+          "speakerId": 2852665,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1018793,
+        "sessionId": 1036403,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "c0464d79-aa2b-4dea-952a-21f144a74e7c",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "76782a7b-35b5-4c77-bc39-d75c7eb09075",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031411,
+      "importId": "RdNA60W2JxGCg",
+      "eventId": 414591,
+      "title": "Who Controls a Smart Contract? Why Auditing the Code Is Not Enough",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 795,
+      "endMinute": 840,
+      "description": "Smart contracts are often thought of as immutable. This is often not the case, and smart contracts are frequently updated to fix bugs, close security vulnerabilities, or introduce new features. In addition, many projects have permissioned admin keys which allow modifying certain aspects, such as adding a new lending market.\n\nIn this talk, Neodyme will illuminate this problem from two angles: users and researchers. We'll talk about how to improve the current situation, help devs to know which information to put where, and highlight the newly proposed security.txt standard.",
+      "descriptionHtml": "<p>Smart contracts are often thought of as immutable. This is often not the case, and smart contracts are frequently updated to fix bugs, close security vulnerabilities, or introduce new features. In addition, many projects have permissioned admin keys which allow modifying certain aspects, such as adding a new lending market.<br><br>In this talk, Neodyme will illuminate this problem from two angles: users and researchers. We'll talk about how to improve the current situation, help devs to know which information to put where, and highlight the newly proposed security.txt standard.</p>",
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [
+        {
+          "speakerId": 1785471,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 1785472,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 989103,
+        "sessionId": 1031411,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "9833ba5a-a0c3-430c-8d71-f2451a76ac12",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "a90d2b4e-40c1-4592-985d-231ccf3e904a",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032712,
+      "importId": "1Q8VpC6I5iuU5",
+      "eventId": 414591,
+      "title": "Unpacking Instagram's Push Into Web3",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 840,
+      "endMinute": 855,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2854802
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "917e71cc-30fd-48c3-a901-6f4005ff678a",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "1264c0e5-2ab8-44c9-9630-57897c17ec17",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031412,
+      "importId": "pLTKsjes3RGWr",
+      "eventId": 414591,
+      "title": "Lessons Learned From Auditing Solana",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 840,
+      "endMinute": 860,
+      "description": "An overview of common Solana vulnerabilities presented by one of the space's leading security firms.",
+      "descriptionHtml": "<p>An overview of common Solana vulnerabilities presented by one of the space's leading security firms.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2832465,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 989118,
+        "sessionId": 1031412,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "f4cbafc0-f78b-480f-a72b-849cd62d21f8",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "11eb0176-e5fd-42d1-b07e-5168b0ed451c",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031433,
+      "importId": "BJnZXtSsi9ku4",
+      "eventId": 414591,
+      "title": "Community Voice",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 840,
+      "endMinute": 960,
+      "description": "Open-sourcing stuff is always the way to go in Web3. That's why we've set up the Community Open Mic: it's for builders, users, and newcomers to share their thoughts, update us on their projects, and even scout for talent.\nSessions: https://breakpoint-community-open-mic.super.site/",
+      "descriptionHtml": "<p>Open-sourcing stuff is always the way to go in Web3. That's why we've set up the Community Open Mic: it's for builders, users, and newcomers to share their thoughts, update us on their projects, and even scout for talent.<br>Sessions: <a href=\"https://breakpoint-community-open-mic.super.site/\">https://breakpoint-community-open-mic.super.site/</a></p>",
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [
+        {
+          "speakerId": 2858765,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "62f4ed21-83b1-461e-a006-ac655baae719",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "3bf22039-b984-4cab-8435-383c3dde8a9a",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032713,
+      "importId": "z2amvQdT4ocXi",
+      "eventId": 414591,
+      "title": "Hold Me Closer, Firedancer: Kevin Bowers on Jump's New Validator Client",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 855,
+      "endMinute": 875,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2843567,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "2a83629b-c67d-4a65-b1e9-35486a019bf1",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "06e6e192-fa04-4d61-8d28-679713a0bf36",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031414,
+      "importId": "0I6WMmCOwZNFG",
+      "eventId": 414591,
+      "title": "Dylint Can Help You Write More Secure Solana Contracts",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 860,
+      "endMinute": 880,
+      "description": "Current linters are static by design. But Trail of Bits is working on a more dynamic way to clean your Rust code. This talk will introduce the firm's Dylint tool, which lets you develop your own custom Solana lints.",
+      "descriptionHtml": "<p>Current linters are static by design. But Trail of Bits is working on a more dynamic way to clean your Rust code. This talk will introduce the firm's Dylint tool, which lets you develop your own custom Solana lints.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2833605,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "67f0672f-1c12-4ea4-ba3b-2958263090a9",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "87a580e9-8a9a-472e-be66-c4a3365eb493",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1036854,
+      "importId": "Oy4qWHUPJa2tS",
+      "eventId": 414591,
+      "title": "Welcome to Convento",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 870,
+      "endMinute": 875,
+      "filters": [],
+      "locationId": 54246,
+      "speakers": [
+        {
+          "speakerId": 2853702,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "b2e08013-af32-49e3-8be4-aea0fc2ab927",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "e7358300-a36b-466c-86da-f57de99f5063",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032714,
+      "importId": "d4RURPc59SIXl",
+      "eventId": 414591,
+      "title": "How Compression Will Decimate Network Costs on Solana",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 875,
+      "endMinute": 900,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2845196,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2847377,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2853711,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2841137,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2845189,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "e0b90ced-0913-44f7-a3b0-5cd2d7e77536",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "09904a53-8c2b-41a1-b3eb-25d96678da0e",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032743,
+      "importId": "mNZyYbmdKK3oI",
+      "eventId": 414591,
+      "title": "Navigating Blurred Lines: Legal Considerations for Developers",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 875,
+      "endMinute": 900,
+      "filters": [],
+      "locationId": 54246,
+      "speakers": [
+        {
+          "speakerId": 2841225,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2843634,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2845195,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2844262,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2856407,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "25d4cef1-d406-4ce2-99b0-6b3b7ba99479",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "98784936-499a-4f29-9dc9-8b434350c90c",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1036515,
+      "importId": "2mCrbxui8vrdY",
+      "eventId": 414591,
+      "title": "How Phantom Is Fighting Phishing",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 880,
+      "endMinute": 900,
+      "description": "Hear how Solana's leading wallet is blocking scammers from tricking users into signing thousands of wallet-draining transactions. ",
+      "descriptionHtml": "<p>Hear how Solana's leading wallet is blocking scammers from tricking users into signing thousands of wallet-draining transactions. </p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 1785343,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1019175,
+        "sessionId": 1036515,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "fc789ba5-f04f-4280-b089-3713466a437e",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "b036d6d7-24f2-4b06-8983-6dab590882ef",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032741,
+      "importId": "hfBTYX5RWOaHS",
+      "eventId": 414591,
+      "title": "Dry Powder: VCs in a Bear Market",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 900,
+      "endMinute": 930,
+      "filters": [],
+      "locationId": 54246,
+      "speakers": [
+        {
+          "speakerId": 2834940,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2845201,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2852741,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2853020,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2853015,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "cda28ead-c6f9-47c9-9f0a-bc9ea6a4fca3",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "9e1b7c60-bcc5-4be6-b7da-404b279d2b0a",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032715,
+      "importId": "OlhkeWADoWzoO",
+      "eventId": 414591,
+      "title": "What's Next for Crypto Policy?",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 915,
+      "endMinute": 960,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2834687,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2856983,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2849304,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2836608,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2836779,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "59dea1db-782c-46c2-8196-c83d95014305",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "739b2251-8b21-4f5d-abec-757af5f43819",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032742,
+      "importId": "yLfLbhQr9IGSS",
+      "eventId": 414591,
+      "title": "Are Wallets Entering the 'Browser Wars' Era?",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 930,
+      "endMinute": 960,
+      "filters": [],
+      "locationId": 54246,
+      "speakers": [
+        {
+          "speakerId": 2858760,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2840569,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 1785227,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2854836,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2839935,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "cd4ffefd-cefd-4c9c-8ccb-848f3eb41629",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "c03c18ce-3695-4ffd-852a-e700dcd84e4b",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1036855,
+      "importId": "utyH8j7Asc9UY",
+      "eventId": 414591,
+      "title": "Google Cloud for Web3",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 975,
+      "endMinute": 1000,
+      "filters": [],
+      "locationId": 54246,
+      "speakers": [
+        {
+          "speakerId": 2853861,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2847376,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1020214,
+        "sessionId": 1036855,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "dbe4d850-f089-49fe-bffe-04ccde3bbdb4",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "cd76be81-82a8-4832-ba4d-9be9dd68dfa7",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032744,
+      "importId": "1J7YEgqJNkI9r",
+      "eventId": 414591,
+      "title": "Battle Royale-ty: NFT Monetization in Crisis?",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 1000,
+      "endMinute": 1035,
+      "filters": [],
+      "locationId": 54246,
+      "speakers": [
+        {
+          "speakerId": 2741279,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2853690,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2836603,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2844236,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2856399,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "ac58b7b6-5e3d-488e-964b-4e2e326aaf75",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "cee1bddf-a83a-4a09-aa6b-5d7ed51fe19f",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1036491,
+      "importId": "ZP8CnA13Bm2la",
+      "eventId": 414591,
+      "title": "Tokens Fix This: Paywalls, Subscriptions and the Future of Media",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 1050,
+      "endMinute": 1070,
+      "filters": [],
+      "locationId": 54246,
+      "speakers": [
+        {
+          "speakerId": 2852721,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2852723,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2856408,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2856409,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1019008,
+        "sessionId": 1036491,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "24335820-1591-4e6d-a442-560af402a6aa",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "2a2e0707-9e01-4094-a924-3d1eb2d89ab6",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032711,
+      "importId": "2fuakS5tTdkFR",
+      "eventId": 414591,
+      "title": "Brave's Brendan Eich, One Year Later",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 1070,
+      "endMinute": 1090,
+      "filters": [],
+      "locationId": 54246,
+      "speakers": [
+        {
+          "speakerId": 2832092,
+          "role": "Speaker"
+        },
+        {
+          "speakerId": 2858772,
+          "role": "Moderator"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "ea6bafae-bb18-441e-a44c-467fd5e5bd32",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "a3d80e86-90e6-403e-ae26-b7ebf22b099d",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1038093,
+      "importId": "aqkIxevfaVyFl",
+      "eventId": 414591,
+      "title": "Daily Happy Hour",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 1080,
+      "endMinute": 1260,
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [],
+      "moderators": [],
+      "sponsors": [418918],
+      "sponsorsTitle": "Sponsored By:Messari",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1027002,
+        "sessionId": 1038093,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "389c4d4e-28c2-405f-8b6b-d87be638d08f",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "54d579e3-c71d-4447-b9a0-7e1fcc22563e",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032746,
+      "importId": "xuZQ9b39QHfV7",
+      "eventId": 414591,
+      "title": "Looking Back, Looking Forward",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 1090,
+      "endMinute": 1130,
+      "filters": [],
+      "locationId": 54246,
+      "speakers": [
+        {
+          "speakerId": 2849311,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2853861,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "df31f6f1-0c55-4138-98d7-0467af2c8313",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "30367652-463d-41f0-a619-86c8a9784e28",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1038088,
+      "importId": "RM8YICXOzslj4",
+      "eventId": 414591,
+      "title": "Opening Night Celebration",
+      "hidden": false,
+      "startDate": 1667606400000,
+      "endDate": 1667692799000,
+      "startMinute": 1140,
+      "endMinute": 1380,
+      "filters": [],
+      "locationId": 54246,
+      "speakers": [],
+      "moderators": [],
+      "sponsors": [418926],
+      "sponsorsTitle": "Sponsored By:GenesysGo",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1026977,
+        "sessionId": 1038088,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "8fb3c217-9cdc-4fb9-bcbb-c08887bce020",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "a3403856-2e7e-47a2-9ca7-768251f7176d",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031408,
+      "importId": "EthmQ7HLJeUXV",
+      "eventId": 414591,
+      "title": "Welcome to Pateo da Gale Day 2",
+      "hidden": false,
+      "startDate": 1667692800000,
+      "endDate": 1667779199000,
+      "startMinute": 600,
+      "endMinute": 610,
+      "description": "Welcome to Pateo da Gale, your home for workshops. We're going to dive deep into technical and non-technical topics here.",
+      "descriptionHtml": "<p>Welcome to Pateo da Gale, your home for workshops. We're going to dive deep into technical and non-technical topics here.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "e385be44-b674-49ce-afa1-24b7d73b312f",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "1fdc2231-1873-4e6b-933b-c5317d6d7606",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031425,
+      "importId": "w51pVcCaj0vMO",
+      "eventId": 414591,
+      "title": "How to Build Your Own ZK App on Solana in Minutes",
+      "hidden": false,
+      "startDate": 1667692800000,
+      "endDate": 1667779199000,
+      "startMinute": 610,
+      "endMinute": 640,
+      "description": "Zero-knowledge moon math isn't for everyone. This session will teach you how to build this privacy primitive into your dapp cheaply and without thinking about the complex cryptography.",
+      "descriptionHtml": "<p>Zero-knowledge moon math isn't for everyone. This session will teach you how to build this privacy primitive into your dapp cheaply and without thinking about the complex cryptography.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2844238,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "65155d92-c1d3-4853-b557-13d30a6e161d",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "0d77d6cc-1fd8-46dc-a3d0-ddedb28d3f2a",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1031415,
+      "importId": "tu6MP90GXC0Od",
+      "eventId": 414591,
+      "title": "A Deep Dive Into Solana's Data Structure",
+      "hidden": false,
+      "startDate": 1667692800000,
+      "endDate": 1667779199000,
+      "startMinute": 640,
+      "endMinute": 660,
+      "description": "The goal of this workshop is to discover through examples how to recover data directly from the Solana blockchain. You might remember a version of this popular talk from the Paris Hacker House.",
+      "descriptionHtml": "<p>The goal of this workshop is to discover through examples how to recover data directly from the Solana blockchain. You might remember a version of this popular talk from the Paris Hacker House.</p>",
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 1785454,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 989145,
+        "sessionId": 1031415,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "2a486c79-0d93-40bb-9c76-0fdec8ab1aed",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "ba655add-25bb-492a-8e94-92fa7da91f65",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1035976,
+      "importId": "Peb7uzqm5V8Nz",
+      "eventId": 414591,
+      "title": "Welcome to Day 2",
+      "hidden": false,
+      "startDate": 1667692800000,
+      "endDate": 1667779199000,
+      "startMinute": 655,
+      "endMinute": 660,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2849311,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1017066,
+        "sessionId": 1035976,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "e6b5cd8c-4a0a-4618-882e-77c6c1b21630",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "aae708ed-5679-42dd-b293-2b0167b056cc",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032717,
+      "importId": "udyG43b570wgL",
+      "eventId": 414591,
+      "title": "Soon™️: News From Circle",
+      "hidden": false,
+      "startDate": 1667692800000,
+      "endDate": 1667779199000,
+      "startMinute": 660,
+      "endMinute": 670,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2836376,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "58b7ef3b-5f99-4a38-9763-eb6b90f16082",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "551cc07b-5370-4f72-b1aa-c03bc0fc1c88",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1036408,
+      "importId": "dTnAR8vw11yRf",
+      "eventId": 414591,
+      "title": "Welcome to Teatro Capitolio",
+      "hidden": false,
+      "startDate": 1667692800000,
+      "endDate": 1667779199000,
+      "startMinute": 660,
+      "endMinute": 670,
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [
+        {
+          "speakerId": 2858765,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1018825,
+        "sessionId": 1036408,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "be06e62d-89f9-4cb5-b10b-17e9bda48210",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "08fe24bd-f049-400d-ba92-44027c265b74",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1036758,
+      "importId": "rFLKoojTn4Edq",
+      "eventId": 414591,
+      "title": "2FA and More: How to Squash SIM-Jacking",
+      "hidden": false,
+      "startDate": 1667692800000,
+      "endDate": 1667779199000,
+      "startMinute": 660,
+      "endMinute": 690,
+      "filters": [],
+      "locationId": 54247,
+      "speakers": [
+        {
+          "speakerId": 2834939,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1020093,
+        "sessionId": 1036758,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "60d86f98-5e55-4c1d-9f4a-e0f8a1e8db54",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "74819865-e5e3-41a7-a85a-daccc1abe6e4",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1036409,
+      "importId": "dQd8QgEO5Xt7D",
+      "eventId": 414591,
+      "title": "Freedom to Fork: How Salmon Built on Sollet",
+      "hidden": false,
+      "startDate": 1667692800000,
+      "endDate": 1667779199000,
+      "startMinute": 670,
+      "endMinute": 690,
+      "description": "Forking is at the core of the open-source ethos. Salmon did just that when it forked Sollet, adding new features to that stalwart wallet. This session will dive into their work. ",
+      "descriptionHtml": "<p>Forking is at the core of the open-source ethos. Salmon did just that when it forked Sollet, adding new features to that stalwart wallet. This session will dive into their work. </p>",
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [
+        {
+          "speakerId": 2833634,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1018835,
+        "sessionId": 1036409,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "464d1d3f-09fe-4e30-8590-128d34d5edf8",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "4ceccda2-adc5-46b2-84d1-0ec621d98b5c",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1032718,
+      "importId": "9wUsJ108k396E",
+      "eventId": 414591,
+      "title": "Bringing Real-World Assets to DeFi",
+      "hidden": false,
+      "startDate": 1667692800000,
+      "endDate": 1667779199000,
+      "startMinute": 670,
+      "endMinute": 695,
+      "filters": [],
+      "locationId": 54245,
+      "speakers": [
+        {
+          "speakerId": 2837762,
+          "role": "Moderator"
+        },
+        {
+          "speakerId": 2832085,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2836901,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2855524,
+          "role": "Panelist"
+        },
+        {
+          "speakerId": 2832088,
+          "role": "Panelist"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "0d406a63-7cf2-4244-a609-8cd3cda857d6",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "5439b8af-f005-429e-9711-ff7b862501a5",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    },
+    {
+      "id": 1037943,
+      "importId": "CORdQkzuQipZL",
+      "eventId": 414591,
+      "title": "A New Hub for the Solana Ecosystem",
+      "hidden": false,
+      "startDate": 1667692800000,
+      "endDate": 1667779199000,
+      "startMinute": 690,
+      "endMinute": 705,
+      "description": "What does a hub look like for a decentralized ecosystem? Emon Motamedi of Solana Labs reveals a new community-driven product.",
+      "descriptionHtml": "<p>What does a hub look like for a decentralized ecosystem? Emon Motamedi of Solana Labs reveals a new community-driven product.</p>",
+      "filters": [],
+      "locationId": 54248,
+      "speakers": [
+        {
+          "speakerId": 2839479,
+          "role": "Speaker"
+        }
+      ],
+      "moderators": [],
+      "sponsors": [],
+      "sponsorsTitle": "Sponsored By:",
+      "attachments": [],
+      "allowRating": false,
+      "interestedIn": [],
+      "associatedContacts": {
+        "contactIds": [],
+        "contactListIds": []
+      },
+      "registration": false,
+      "registrationVisibility": false,
+      "registrationCapacityEnable": false,
+      "registrationFull": false,
+      "private": false,
+      "enableVirtualSession": false,
+      "enableRecordingSession": false,
+      "virtualSessionRecordingState": "DISABLED",
+      "engagementTools": "BIZZABO",
+      "recordingIsReady": false,
+      "qna": {
+        "id": 1026431,
+        "sessionId": 1037943,
+        "enable": false,
+        "autoApprove": true
+      },
+      "chat": {
+        "enable": false,
+        "channels": [
+          {
+            "channelId": "0b2544ba-09d2-4f24-a30e-6fe2ea3c6086",
+            "title": "Join a conversation",
+            "enable": true,
+            "rank": 0
+          },
+          {
+            "channelId": "eaa0619f-06f2-4c45-b0a9-db8ced82f983",
+            "title": "Introduce yourself",
+            "enable": true,
+            "rank": 1
+          }
+        ]
+      },
+      "engagements": [],
+      "previewSize": 2,
+      "visibility": {
+        "type": "PUBLIC"
+      }
+    }
+  ],
+  "total": 129,
+  "count": 50,
+  "offset": 0,
+  "filterTagAggregation": [
+    {
+      "tagId": 288484,
+      "count": 1
+    }
+  ],
+  "locationsAggregations": [
+    {
+      "locationId": 54245,
+      "count": 41
+    },
+    {
+      "locationId": 54246,
+      "count": 33
+    },
+    {
+      "locationId": 54247,
+      "count": 31
+    },
+    {
+      "locationId": 54248,
+      "count": 23
+    },
+    {
+      "locationId": 54827,
+      "count": 1
+    }
+  ],
+  "sublocationsAggregations": []
+}
